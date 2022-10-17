@@ -74,7 +74,7 @@ require (
 	github.com/willf/bloom v2.0.3+incompatible
 	go.opencensus.io v0.23.0
 	go.opentelemetry.io/collector v0.57.2
-	go.opentelemetry.io/collector/pdata v0.57.2
+	go.opentelemetry.io/collector/pdata v0.62.1
 	go.opentelemetry.io/collector/semconv v0.57.2
 	go.opentelemetry.io/otel v1.10.0
 	go.opentelemetry.io/otel/bridge/opencensus v0.31.0
@@ -90,7 +90,7 @@ require (
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8
 	google.golang.org/api v0.84.0
-	google.golang.org/grpc v1.48.0
+	google.golang.org/grpc v1.50.0
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
