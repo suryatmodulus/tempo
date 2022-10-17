@@ -76,13 +76,13 @@ require (
 	go.opentelemetry.io/collector v0.57.2
 	go.opentelemetry.io/collector/pdata v0.57.2
 	go.opentelemetry.io/collector/semconv v0.57.2
-	go.opentelemetry.io/otel v1.10.0
+	go.opentelemetry.io/otel v1.11.0
 	go.opentelemetry.io/otel/bridge/opencensus v0.31.0
 	go.opentelemetry.io/otel/bridge/opentracing v1.10.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.10.0
-	go.opentelemetry.io/otel/metric v0.31.0
+	go.opentelemetry.io/otel/metric v0.32.3
 	go.opentelemetry.io/otel/sdk v1.10.0
-	go.opentelemetry.io/otel/trace v1.10.0
+	go.opentelemetry.io/otel/trace v1.11.0
 	go.uber.org/atomic v1.9.0
 	go.uber.org/goleak v1.1.12
 	go.uber.org/multierr v1.8.0
