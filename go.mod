@@ -85,7 +85,7 @@ require (
 	go.uber.org/atomic v1.10.0
 	go.uber.org/goleak v1.2.0
 	go.uber.org/multierr v1.8.0
-	go.uber.org/zap v1.21.0
+	go.uber.org/zap v1.24.0
 	golang.org/x/sync v0.0.0-20220907140024-f12130a52804
 	golang.org/x/time v0.0.0-20220920022843-2ce7c2934d45
 	google.golang.org/api v0.98.0
